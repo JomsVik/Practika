@@ -162,3 +162,4 @@ C:\Users\user.COMP406-11\Documents\355к\module4\intern\obj\Debug\net9.0-windows
 C:\Users\user.COMP406-11\Documents\355к\module4\intern\obj\Debug\net9.0-windows7.0\intern.pdb
 C:\Users\user.COMP406-11\Documents\355к\module4\intern\obj\Debug\net9.0-windows7.0\intern.genruntimeconfig.cache
 C:\Users\user.COMP406-11\Documents\355к\module4\intern\obj\Debug\net9.0-windows7.0\ref\intern.dll
+C:\Users\user.COMP406-11\Documents\355к\module4\intern\obj\Debug\net9.0-windows7.0\intern.sourcelink.json

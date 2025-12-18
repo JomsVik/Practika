@@ -85,7 +85,7 @@ namespace intern.ViewModels
             foreach (var pt in await _db.ProductTypes.ToListAsync())
                 ProductTypes.Add(pt);
 
-            // 1) Сначала подтягиваем продукт и выставляем его тип (чтобы расчёт был "для выбранного товара")
+           
             var product = await _db.Products
                 .Include(p => p.ProductType)
                 .FirstOrDefaultAsync(p => p.Id == _productId);
@@ -95,13 +95,13 @@ namespace intern.ViewModels
             else
                 SelectedProductType = ProductTypes.Count > 0 ? ProductTypes[0] : null;
 
-            // 2) Материалы только те, что привязаны к этому продукту через ProductMaterials
+            
             Materials.Clear();
 
             var materials = await _db.ProductMaterials
                 .Where(pm => pm.ProductId == _productId)
                 .Include(pm => pm.Material)
-                    .ThenInclude(m => m.MaterialType) // чтобы service мог брать DefectPercent из MaterialType
+                    .ThenInclude(m => m.MaterialType)
                 .Select(pm => pm.Material)
                 .Distinct()
                 .ToListAsync();

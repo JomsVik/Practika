@@ -25,7 +25,7 @@
     </Window.Resources>
 
     <DockPanel>
-        <!-- Заголовок с кнопкой -->
+        
         <Border Background="{StaticResource SecondaryBrush}"
                 Padding="10"
                 DockPanel.Dock="Top">
@@ -36,7 +36,7 @@
                     <ColumnDefinition Width="Auto"/>
                 </Grid.ColumnDefinitions>
 
-                <!-- Логотип и заголовок -->
+                
                 <StackPanel Grid.Column="0" 
                             Orientation="Horizontal" 
                             VerticalAlignment="Center">
@@ -50,7 +50,7 @@
                                Foreground="#1A471F" />
                 </StackPanel>
 
-                <!-- Кнопка -->
+                
                 <Button Grid.Column="2"
                         Content="Редактировать"
                         Command="{Binding EditMaterialCommand}"
@@ -61,7 +61,7 @@
             </Grid>
         </Border>
 
-        <!-- Основное содержимое -->
+        
         <Border Background="{StaticResource LightBackground}"
                 Padding="10">
             <Grid>
@@ -70,7 +70,7 @@
                     <RowDefinition Height="Auto"/>
                 </Grid.RowDefinitions>
 
-                <!-- Таблица -->
+                
                 <Border Grid.Row="0"
                         Background="White"
                         CornerRadius="6"
