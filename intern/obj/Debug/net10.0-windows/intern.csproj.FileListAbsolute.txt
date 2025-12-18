@@ -1,0 +1,310 @@
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\intern.exe
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\intern.deps.json
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\intern.runtimeconfig.json
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\intern.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\intern.pdb
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\intern.csproj.AssemblyReference.cache
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\App.g.cs
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\intern_MarkupCompile.cache
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\MainWindow.baml
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\intern.g.resources
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\intern.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\intern.AssemblyInfoInputs.cache
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\intern.AssemblyInfo.cs
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\intern.csproj.CoreCompileInputs.cache
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\intern.sourcelink.json
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\intern.csproj.Up2Date
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\intern.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\refint\intern.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\intern.pdb
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\intern.genruntimeconfig.cache
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\internship2025\module 2\intern\intern\obj\Debug\net10.0-windows\ref\intern.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\intern.exe
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\intern.deps.json
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\intern.runtimeconfig.json
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\intern.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\intern.pdb
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\intern.csproj.AssemblyReference.cache
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\App.g.cs
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\intern_MarkupCompile.cache
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\intern.g.resources
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\intern.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\intern.AssemblyInfoInputs.cache
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\intern.AssemblyInfo.cs
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\intern.csproj.CoreCompileInputs.cache
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\intern.csproj.Up2Date
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\intern.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\refint\intern.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\intern.pdb
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\intern.genruntimeconfig.cache
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\ref\intern.dll
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\intern_Content.g.cs
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\Views\MainWindow.baml
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\Views\MainWindow.g.cs
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\Views\ProductEditWindow.baml
+D:\учеба\УЧЕБНАЯ ПРАКТИКА 2025\практика 2\intern\intern\obj\Debug\net10.0-windows\Views\ProductEditWindow.g.cs
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\intern.exe
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\intern.deps.json
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\intern.runtimeconfig.json
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\intern.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\intern.pdb
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Azure.Core.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Azure.Identity.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\System.ClientModel.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\System.Memory.Data.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\intern.csproj.AssemblyReference.cache
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\Views\MainWindow.baml
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\Views\ProductEditWindow.baml
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\Views\MainWindow.g.cs
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\Views\ProductEditWindow.g.cs
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\intern_Content.g.cs
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\intern_MarkupCompile.cache
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\intern.g.resources
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\intern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\intern.AssemblyInfoInputs.cache
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\intern.AssemblyInfo.cs
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\intern.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\intern.sourcelink.json
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\intern.csproj.Up2Date
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\intern.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\refint\intern.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\intern.pdb
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\intern.genruntimeconfig.cache
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\obj\Debug\net10.0-windows\ref\intern.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module 3\intern\bin\Debug\net10.0-windows\appsettings.json
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\intern.exe
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\appsettings.json
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\intern.deps.json
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\intern.runtimeconfig.json
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\intern.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\intern.pdb
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Azure.Core.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Azure.Identity.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\System.ClientModel.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\System.Memory.Data.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\intern.csproj.AssemblyReference.cache
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\Views\MainWindow.baml
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\Views\ProductEditWindow.baml
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\Views\MainWindow.g.cs
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\Views\MaterialsWindow.g.cs
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\Views\ProductEditWindow.g.cs
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\intern_Content.g.cs
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\intern_MarkupCompile.cache
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\intern_MarkupCompile.lref
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\Views\MaterialsWindow.baml
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\intern.g.resources
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\intern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\intern.AssemblyInfoInputs.cache
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\intern.AssemblyInfo.cs
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\intern.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\intern.sourcelink.json
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\intern.csproj.Up2Date
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\intern.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\refint\intern.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\intern.pdb
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\intern.genruntimeconfig.cache
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\ref\intern.dll
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\App.baml
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\Views\MaterialsEditWindow.g.cs
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\Views\MaterialsEditWindow.baml
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\Views\MaterialCalculatorWindow.g.cs
+C:\Users\pawel\source\repos\rotares\internship2025\module4\intern\obj\Debug\net10.0-windows\Views\MaterialCalculatorWindow.baml
