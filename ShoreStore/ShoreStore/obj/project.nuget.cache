@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SXwvNkWSJh8=",
+  "success": true,
+  "projectFilePath": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\ShoeStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luffy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Luffy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Luffy\\.nuget\\packages\\npgsql\\10.0.1\\npgsql.10.0.1.nupkg.sha512",
+    "C:\\Users\\Luffy\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.11\\system.diagnostics.diagnosticsource.9.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

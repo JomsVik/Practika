@@ -1,0 +1,31 @@
+﻿<Window x:Class="ShoeStore.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Магазин обуви" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen"
+        FontFamily="Times New Roman">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Background="#7FFF00" Padding="10">
+            <TextBlock x:Name="txtUserInfo" Text="Гость" 
+                       FontSize="14" FontWeight="Bold"/>
+        </Border>
+
+        <Menu Grid.Row="1" Background="#F0F0F0" Height="30">
+            <MenuItem Header="Файл">
+                <MenuItem x:Name="mnuLogout" Header="Выйти" Click="mnuLogout_Click"/>
+                <MenuItem Header="Выход" Click="mnuExit_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="mnuCatalog" Header="Каталог товаров" Click="mnuCatalog_Click"/>
+            <MenuItem x:Name="mnuOrders" Header="Заказы" Click="mnuOrders_Click"/>
+        </Menu>
+
+        <Frame x:Name="MainFrame" Grid.Row="2"/>
+    </Grid>
+</Window>
