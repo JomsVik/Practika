@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "D:\\practika\\BD\\Practika\\ShoreStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\views\\productcatalog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\views\\productcatalog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\views\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\views\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\shoestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\shoestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\views\\productcatalog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\views\\productcatalog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\views\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\views\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\services\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,8 +35,36 @@
       "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\views\\productcatalog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\views\\productcatalog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\converters\\discountconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\converters\\discountconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\shoestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\shoestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|solutionrelative:shorestore\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F82CA97F-B7CF-41EF-B3E4-E916F5E91273}|ShoreStore\\ShoeStore.csproj|d:\\practika\\bd\\practika\\shorestore\\shorestore\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,15 +78,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
@@ -82,55 +94,141 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductCatalog.xaml.cs",
-              "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\ProductCatalog.xaml.cs",
-              "RelativeDocumentMoniker": "ShoreStore\\Views\\ProductCatalog.xaml.cs",
-              "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\ProductCatalog.xaml.cs",
-              "RelativeToolTip": "ShoreStore\\Views\\ProductCatalog.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShoreStore\\Views\\RegisterWindow.xaml.cs",
+              "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "ShoreStore\\Views\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAADwv2kAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T13:16:46.966Z"
+              "WhenOpened": "2026-03-12T17:05:40Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "ShoreStore\\Views\\RegisterWindow.xaml",
+              "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\RegisterWindow.xaml",
+              "RelativeToolTip": "ShoreStore\\Views\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-12T17:04:31.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCatalog.xaml",
+              "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\ProductCatalog.xaml",
+              "RelativeDocumentMoniker": "ShoreStore\\Views\\ProductCatalog.xaml",
+              "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\ProductCatalog.xaml",
+              "RelativeToolTip": "ShoreStore\\Views\\ProductCatalog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T13:16:23.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ShoreStore\\Views\\LoginWindow.xaml",
+              "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "ShoreStore\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-11T13:13:31.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShoreStore\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ShoreStore\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvzcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:14:07.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DatabaseContext.cs",
               "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Services\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "ShoreStore\\Services\\DatabaseContext.cs",
               "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Services\\DatabaseContext.cs",
               "RelativeToolTip": "ShoreStore\\Services\\DatabaseContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T13:07:26.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "ShoreStore\\Services\\AuthService.cs",
-              "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Services\\AuthService.cs",
-              "RelativeToolTip": "ShoreStore\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "DiscountConverters.cs",
+              "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Converters\\DiscountConverters.cs",
+              "RelativeDocumentMoniker": "ShoreStore\\Converters\\DiscountConverters.cs",
+              "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Converters\\DiscountConverters.cs",
+              "RelativeToolTip": "ShoreStore\\Converters\\DiscountConverters.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T13:11:45.909Z"
+              "WhenOpened": "2026-03-11T16:13:45.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ShoreStore\\Models\\Product.cs",
               "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Models\\Product.cs",
               "RelativeToolTip": "ShoreStore\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T13:06:20.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
+              "Title": "ProductCatalog.xaml.cs",
+              "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\ProductCatalog.xaml.cs",
+              "RelativeDocumentMoniker": "ShoreStore\\Views\\ProductCatalog.xaml.cs",
+              "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\ProductCatalog.xaml.cs",
+              "RelativeToolTip": "ShoreStore\\Views\\ProductCatalog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:16:46.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ShoreStore\\Services\\AuthService.cs",
+              "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Services\\AuthService.cs",
+              "RelativeToolTip": "ShoreStore\\Services\\AuthService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:11:45.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShoeStore.csproj",
+              "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\ShoeStore.csproj",
+              "RelativeDocumentMoniker": "ShoreStore\\ShoeStore.csproj",
+              "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\ShoeStore.csproj",
+              "RelativeToolTip": "ShoreStore\\ShoeStore.csproj",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T13:03:39.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Role.cs",
               "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Models\\Role.cs",
               "RelativeDocumentMoniker": "ShoreStore\\Models\\Role.cs",
@@ -142,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Models\\User.cs",
               "RelativeDocumentMoniker": "ShoreStore\\Models\\User.cs",
@@ -150,35 +248,11 @@
               "RelativeToolTip": "ShoreStore\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T13:05:48.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T13:05:48.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "ShoreStore\\Views\\LoginWindow.xaml",
-              "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\LoginWindow.xaml",
-              "RelativeToolTip": "ShoreStore\\Views\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T13:13:31.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ShoreStore\\Views\\LoginWindow.xaml.cs",
-              "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "ShoreStore\\Views\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T13:14:07.186Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ShoreStore\\Views\\MainWindow.xaml.cs",
@@ -190,19 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ShoeStore.csproj",
-              "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\ShoeStore.csproj",
-              "RelativeDocumentMoniker": "ShoreStore\\ShoeStore.csproj",
-              "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\ShoeStore.csproj",
-              "RelativeToolTip": "ShoreStore\\ShoeStore.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-11T13:03:39.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\App.xaml.cs",
               "RelativeDocumentMoniker": "ShoreStore\\App.xaml.cs",
@@ -214,29 +276,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\App.xaml",
               "RelativeDocumentMoniker": "ShoreStore\\App.xaml",
               "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\App.xaml",
               "RelativeToolTip": "ShoreStore\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T13:17:05.397Z"
+              "WhenOpened": "2026-03-11T13:17:05.397Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductCatalog.xaml",
-              "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\ProductCatalog.xaml",
-              "RelativeDocumentMoniker": "ShoreStore\\Views\\ProductCatalog.xaml",
-              "ToolTip": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\ProductCatalog.xaml",
-              "RelativeToolTip": "ShoreStore\\Views\\ProductCatalog.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T13:16:23.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\practika\\BD\\Practika\\ShoreStore\\ShoreStore\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ShoreStore\\Views\\MainWindow.xaml",

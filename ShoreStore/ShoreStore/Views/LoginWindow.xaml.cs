@@ -1,6 +1,5 @@
 ﻿using System.Windows;
 using ShoeStore.Services;
-using ShoeStore;
 
 namespace ShoeStore.Views
 {
@@ -44,6 +43,13 @@ namespace ShoeStore.Views
         {
             var mainWindow = new MainWindow(_authService);
             mainWindow.Show();
+            this.Close();
+        }
+
+        private void RegisterLink_Click(object sender, RoutedEventArgs e)
+        {
+            RegisterWindow registerWindow = new RegisterWindow();
+            registerWindow.Show();
             this.Close();
         }
     }

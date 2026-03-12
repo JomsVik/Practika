@@ -27,31 +27,46 @@ namespace ShoeStore.Views
                 using (var conn = _context.GetConnection())
                 {
                     conn.Open();
-                    string query = "SELECT id, article, name, price, category, quantity FROM products ORDER BY name";
+
+                    string query = @"
+                        SELECT id, article, name, unit, price, supplier, 
+                               manufacturer, category, discount, quantity, 
+                               description, image_url 
+                        FROM products 
+                        ORDER BY name";
 
                     using (var cmd = new NpgsqlCommand(query, conn))
                     using (var reader = cmd.ExecuteReader())
                     {
                         while (reader.Read())
                         {
-                            products.Add(new Product
+                            var product = new Product
                             {
                                 Id = reader.GetInt32(0),
                                 Article = reader.GetString(1),
                                 Name = reader.GetString(2),
-                                Price = reader.GetDecimal(3),
-                                Category = reader.IsDBNull(4) ? "" : reader.GetString(4),
-                                Quantity = reader.GetInt32(5)
-                            });
+                                Unit = reader.GetString(3),
+                                Price = reader.GetDecimal(4),
+                                Supplier = reader.IsDBNull(5) ? "" : reader.GetString(5),
+                                Manufacturer = reader.IsDBNull(6) ? "" : reader.GetString(6),
+                                Category = reader.IsDBNull(7) ? "" : reader.GetString(7),
+                                Discount = reader.IsDBNull(8) ? 0 : reader.GetInt32(8),
+                                Quantity = reader.GetInt32(9),
+                                Description = reader.IsDBNull(10) ? "" : reader.GetString(10),
+                                ImageUrl = reader.IsDBNull(11) ? "" : reader.GetString(11)
+                            };
+
+                            products.Add(product);
                         }
                     }
                 }
 
-                listProducts.ItemsSource = products;
+                
+                itemsControl.ItemsSource = products;
             }
             catch (System.Exception ex)
             {
-                MessageBox.Show($"Ошибка загрузки: {ex.Message}");
+                MessageBox.Show($"Ошибка загрузки товаров: {ex.Message}");
             }
         }
     }

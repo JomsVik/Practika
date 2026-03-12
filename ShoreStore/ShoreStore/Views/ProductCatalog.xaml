@@ -10,25 +10,72 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <TextBlock Grid.Row="0" Text="Каталог товаров" FontSize="18" 
+        <TextBlock Grid.Row="0" Text="Каталог товаров" FontSize="20" 
                    FontWeight="Bold" Margin="0,0,0,10"/>
 
-        <ListBox Grid.Row="1" x:Name="listProducts">
-            <ListBox.ItemTemplate>
-                <DataTemplate>
-                    <Border BorderBrush="Gray" BorderThickness="1" 
-                            CornerRadius="5" Padding="10" Margin="5">
-                        <StackPanel>
-                            <TextBlock Text="{Binding Name}" FontWeight="Bold" FontSize="14"/>
-                            <TextBlock Text="{Binding Article}" Foreground="Gray"/>
-                            <TextBlock Text="{Binding Category}" Margin="0,5"/>
-                            <TextBlock Text="{Binding Price, StringFormat={}{0:N0} ₽}" 
-                                       Foreground="Green" FontSize="16"/>
-                            <TextBlock Text="{Binding Quantity, StringFormat=В наличии: {0} шт.}"/>
-                        </StackPanel>
-                    </Border>
-                </DataTemplate>
-            </ListBox.ItemTemplate>
-        </ListBox>
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <ItemsControl x:Name="itemsControl">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel Orientation="Horizontal"/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderBrush="Gray" BorderThickness="1" 
+                                CornerRadius="5" Padding="10" Margin="5"
+                                Width="220">
+                            <StackPanel>
+                                <!-- ИЗОБРАЖЕНИЕ - используем Image, а не TextBlock -->
+                                <Border Background="#F0F0F0" Height="120" Margin="0,0,0,5">
+                                    <Image Source="{Binding ImagePath}" 
+                                           Stretch="Uniform" 
+                                           MaxHeight="110"
+                                           VerticalAlignment="Center"/>
+                                </Border>
+
+                                <!-- Артикул -->
+                                <TextBlock Text="{Binding Article}" 
+                                           FontSize="10" Foreground="Gray"/>
+
+                                <!-- Название -->
+                                <TextBlock Text="{Binding Name}" 
+                                           FontWeight="Bold" FontSize="14"
+                                           TextWrapping="Wrap"/>
+
+                                <!-- Категория -->
+                                <TextBlock Text="{Binding Category}" 
+                                           FontSize="11" Margin="0,2"/>
+
+                                <!-- Цена -->
+                                <TextBlock>
+                                    <Run Text="Цена:" FontWeight="Bold"/>
+                                    <Run Text="{Binding Price, StringFormat={}{0:N0} ₽}"/>
+                                </TextBlock>
+
+                                <!-- Скидка -->
+                                <TextBlock>
+                                    <Run Text="Скидка:" FontWeight="Bold"/>
+                                    <Run Text="{Binding Discount}"/>
+                                    <Run Text="%"/>
+                                </TextBlock>
+
+                                <!-- Наличие -->
+                                <TextBlock Margin="0,5">
+                                    <Run Text="В наличии:" FontWeight="Bold"/>
+                                    <Run Text="{Binding Quantity}"/>
+                                    <Run Text="шт."/>
+                                </TextBlock>
+
+                                <!-- Производитель -->
+                                <TextBlock Text="{Binding Manufacturer}" 
+                                           FontSize="11" Foreground="Gray"/>
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
     </Grid>
 </Page>

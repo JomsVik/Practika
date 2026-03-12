@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\practika\BD\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\
 ShoeStore
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\practika\BD\ShoreStore\ShoreStore\App.xaml
-3802059574
+D:\practika\BD\Practika\ShoreStore\ShoreStore\App.xaml
+41391967819
 
-11236439440
+13-188987444
 201-715349512
-Views\LoginWindow.xaml;Views\MainWindow.xaml;Views\ProductCatalog.xaml;
+Views\LoginWindow.xaml;Views\MainWindow.xaml;Views\ProductCatalog.xaml;Views\RegisterWindow.xaml;
 
 False
 
