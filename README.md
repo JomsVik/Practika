@@ -19,19 +19,34 @@ erDiagram
         timestamp created_at
     }
 
+    suppliers {
+        int id PK
+        varchar name UK
+    }
+
+    manufacturers {
+        int id PK
+        varchar name UK
+    }
+
+    categories {
+        int id PK
+        varchar name UK
+    }
+
     products {
         int id PK
         varchar article UK
         varchar name
         varchar unit
         decimal price
-        varchar supplier
-        varchar manufacturer
-        varchar category
         int discount
         int quantity
         text description
         varchar image_url
+        int supplier_id FK
+        int manufacturer_id FK
+        int category_id FK
     }
 
     orders {
@@ -58,4 +73,7 @@ erDiagram
     pickup_points ||--o{ orders : "обслуживает"
     orders ||--o{ order_items : "содержит"
     products ||--o{ order_items : "включает"
+    suppliers ||--o{ products : "поставляет"
+    manufacturers ||--o{ products : "производит"
+    categories ||--o{ products : "относится к"
 ```
