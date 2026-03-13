@@ -1,4 +1,4 @@
-erDiagram
+
     roles {
         int id PK
         varchar name UK
