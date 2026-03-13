@@ -1,4 +1,5 @@
-
+```mermaid
+erDiagram
     roles {
         int id PK
         varchar name UK
@@ -57,3 +58,4 @@
     pickup_points ||--o{ orders : "обслуживает"
     orders ||--o{ order_items : "содержит"
     products ||--o{ order_items : "включает"
+```
