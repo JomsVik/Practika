@@ -1,2 +1,2 @@
-# PRACRIKA
+# PRACTIKA
 
