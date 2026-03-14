@@ -4,6 +4,7 @@ using ShoeStore.Services;
 using System.Collections.Generic;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Input;
 
 namespace ShoeStore.Views
 {
@@ -72,33 +73,24 @@ namespace ShoeStore.Views
             }
         }
 
-        private void AddToCart_Click(object sender, RoutedEventArgs e)
+        public void RefreshProducts()
         {
-            if (_authService.CurrentUser == null)
-            {
-                MessageBox.Show("Для добавления товаров в корзину необходимо авторизоваться",
-                              "Требуется авторизация",
-                              MessageBoxButton.OK, MessageBoxImage.Warning);
-                return;
-            }
+            LoadProducts();
+        }
 
-            var button = sender as Button;
-            int productId = (int)button.Tag;
+        private void Product_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+            var border = sender as Border;
+            if (border == null) return;
 
+            int productId = (int)border.Tag;
             var product = _products.Find(p => p.Id == productId);
 
             if (product != null)
             {
-                if (product.Quantity <= 0)
-                {
-                    MessageBox.Show("Товара нет в наличии", "Ошибка",
-                                  MessageBoxButton.OK, MessageBoxImage.Warning);
-                    return;
-                }
-
-                _cartService.AddToCart(product);
-                MessageBox.Show($"Товар \"{product.Name}\" добавлен в корзину",
-                              "Добавлено", MessageBoxButton.OK, MessageBoxImage.Information);
+                var detailWindow = new ProductDetailWindow(product, _authService, _cartService);
+                detailWindow.Owner = Window.GetWindow(this);
+                detailWindow.ShowDialog();
             }
         }
     }

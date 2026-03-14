@@ -1,18 +1,19 @@
 ﻿<Window x:Class="ShoeStore.Views.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Магазин обуви" Height="450" Width="800"
+        Title="Магазин обуви" Height="500" Width="900"
         WindowStartupLocation="CenterScreen"
-        FontFamily="Times New Roman">
+        FontFamily="Times New Roman"
+        Background="White">
 
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        
         <Border Grid.Row="0" Background="#7FFF00" Padding="10">
             <Grid>
                 <Grid.ColumnDefinitions>
@@ -20,27 +21,37 @@
                     <ColumnDefinition Width="Auto"/>
                 </Grid.ColumnDefinitions>
 
-                <TextBlock Grid.Column="0" x:Name="txtUserInfo" Text="Гость" 
-                           FontSize="14" FontWeight="Bold" VerticalAlignment="Center"/>
+                <StackPanel Grid.Column="0" Orientation="Horizontal">
+                    <TextBlock x:Name="txtUserInfo" Text="Гость" 
+                               FontSize="16" FontWeight="Bold" VerticalAlignment="Center"/>
+                    <TextBlock x:Name="txtRoleInfo" Text="(просмотр каталога)" 
+                               FontSize="14" Foreground="#555" Margin="10,0,0,0" VerticalAlignment="Center"/>
+                </StackPanel>
 
-                
                 <Button Grid.Column="1" x:Name="btnCart" Content="🛒 Корзина" 
-                        Width="100" Height="30" Background="#00FA9A"
+                        Width="100" Height="35" Background="#00FA9A" FontWeight="Bold"
                         Click="btnCart_Click" Margin="0,0,10,0"/>
             </Grid>
         </Border>
 
-        
-        <Menu Grid.Row="1" Background="#F0F0F0" Height="30">
+        <Menu Grid.Row="1" Background="#F0F0F0" Height="35">
             <MenuItem Header="Файл">
                 <MenuItem x:Name="mnuLogout" Header="Выйти" Click="mnuLogout_Click"/>
                 <MenuItem Header="Выход" Click="mnuExit_Click"/>
             </MenuItem>
-            <MenuItem x:Name="mnuCatalog" Header="Каталог товаров" Click="mnuCatalog_Click"/>
-            <MenuItem x:Name="mnuOrders" Header="Заказы" Click="mnuOrders_Click"/>
+
+            <MenuItem x:Name="mnuCatalog" Header="📋 Каталог товаров" Click="mnuCatalog_Click"/>
+            <MenuItem x:Name="mnuOrders" Header="📦 Мои заказы" Click="mnuOrders_Click"/>
+
+            <MenuItem x:Name="mnuAdmin" Header="⚙️ Администрирование" Visibility="Collapsed">
+                <MenuItem x:Name="mnuProducts" Header="Управление товарами" Click="mnuProducts_Click"/>
+            </MenuItem>
         </Menu>
 
-        
-        <Frame x:Name="MainFrame" Grid.Row="2"/>
+        <Frame x:Name="MainFrame" Grid.Row="2" NavigationUIVisibility="Hidden"/>
+
+        <StatusBar Grid.Row="3" Background="#E0E0E0" Height="25">
+            <TextBlock x:Name="txtStatus" Text="Готов к работе"/>
+        </StatusBar>
     </Grid>
 </Window>

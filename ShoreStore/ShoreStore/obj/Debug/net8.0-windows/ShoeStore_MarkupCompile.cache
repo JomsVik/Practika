@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\practika\BD\Practika\ShoreStore\ShoreStore\App.xaml
-8-1972855294
+11496399987
 
-23-390437049
+26-278235880
 201-715349512
-Views\CartWindow.xaml;Views\CheckoutWindow.xaml;Views\LoginWindow.xaml;Views\MainWindow.xaml;Views\OrderDetailsWindow.xaml;Views\ProductCatalog.xaml;Views\RegisterWindow.xaml;Views\UserOrdersWindow.xaml;
+Views\CartWindow.xaml;Views\CheckoutWindow.xaml;Views\LoginWindow.xaml;Views\MainWindow.xaml;Views\OrderDetailsWindow.xaml;Views\ProductCatalog.xaml;Views\ProductDetailWindow.xaml;Views\ProductEditWindow.xaml;Views\ProductManagementWindow.xaml;Views\RegisterWindow.xaml;Views\UserOrdersWindow.xaml;
 
 False
 

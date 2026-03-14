@@ -1,0 +1,64 @@
+﻿<Window x:Class="ShoeStore.Views.ProductManagementWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Управление товарами" Height="600" Width="900"
+        WindowStartupLocation="CenterOwner"
+        FontFamily="Times New Roman"
+        Background="White"
+        WindowStyle="SingleBorderWindow"
+        ResizeMode="NoResize">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Управление товарами" FontSize="24" 
+                   FontWeight="Bold" Margin="0,0,0,20" HorizontalAlignment="Center"/>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,0,0,15">
+            <Button x:Name="btnAdd" Content="➕ Добавить товар" Width="150" Height="35" 
+                    Background="#00FA9A" FontWeight="Bold" Margin="0,0,10,0" Click="btnAdd_Click"/>
+            <Button x:Name="btnRefresh" Content="🔄 Обновить" Width="100" Height="35" 
+                    Background="#7FFF00" Click="btnRefresh_Click"/>
+        </StackPanel>
+
+        <ListView Grid.Row="2" x:Name="listProducts" 
+                  ScrollViewer.VerticalScrollBarVisibility="Auto"
+                  SelectionMode="Single">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" Width="50" DisplayMemberBinding="{Binding Id}"/>
+                    <GridViewColumn Header="Артикул" Width="100" DisplayMemberBinding="{Binding Article}"/>
+                    <GridViewColumn Header="Наименование" Width="200" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Категория" Width="120" DisplayMemberBinding="{Binding Category}"/>
+                    <GridViewColumn Header="Цена" Width="100" DisplayMemberBinding="{Binding Price, StringFormat={}{0:N0} ₽}"/>
+                    <GridViewColumn Header="Скидка" Width="70" DisplayMemberBinding="{Binding Discount, StringFormat={}{0}%}"/>
+                    <GridViewColumn Header="Кол-во" Width="70" DisplayMemberBinding="{Binding Quantity}"/>
+                    <GridViewColumn Header="Действия" Width="150">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <Button Content="✏️" Width="35" Height="25" 
+                                            Background="#00FA9A" Margin="0,0,5,0"
+                                            Click="EditProduct_Click" Tag="{Binding Id}"/>
+                                    <Button Content="❌" Width="35" Height="25" 
+                                            Background="Red" Foreground="White"
+                                            Click="DeleteProduct_Click" Tag="{Binding Id}"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20">
+            <Button x:Name="btnClose" Content="Закрыть" Width="100" Height="35" 
+                    Background="#7FFF00" Click="btnClose_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

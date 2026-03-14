@@ -69,3 +69,9 @@ D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\Use
 D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\ShoeStore_MarkupCompile.lref
 D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\UserOrdersWindow.baml
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\ProductEditWindow.baml
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\ProductManagementWindow.baml
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\ProductEditWindow.g.cs
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\ProductManagementWindow.g.cs
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\ProductDetailWindow.baml
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\ProductDetailWindow.g.cs
