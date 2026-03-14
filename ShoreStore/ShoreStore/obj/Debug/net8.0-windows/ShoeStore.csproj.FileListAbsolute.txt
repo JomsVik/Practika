@@ -59,3 +59,13 @@ D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\ShoeStore
 D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\ref\ShoeStore.dll
 D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\RegisterWindow.baml
 D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\RegisterWindow.g.cs
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\CartWindow.baml
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\CheckoutWindow.baml
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\CartWindow.g.cs
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\CheckoutWindow.g.cs
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\OrderDetailsWindow.baml
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\OrderDetailsWindow.g.cs
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\UserOrdersWindow.g.cs
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\ShoeStore_MarkupCompile.lref
+D:\practika\BD\Practika\ShoreStore\ShoreStore\obj\Debug\net8.0-windows\Views\UserOrdersWindow.baml

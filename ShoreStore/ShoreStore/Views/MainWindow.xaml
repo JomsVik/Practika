@@ -12,11 +12,25 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
+        
         <Border Grid.Row="0" Background="#7FFF00" Padding="10">
-            <TextBlock x:Name="txtUserInfo" Text="Гость" 
-                       FontSize="14" FontWeight="Bold"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Grid.Column="0" x:Name="txtUserInfo" Text="Гость" 
+                           FontSize="14" FontWeight="Bold" VerticalAlignment="Center"/>
+
+                
+                <Button Grid.Column="1" x:Name="btnCart" Content="🛒 Корзина" 
+                        Width="100" Height="30" Background="#00FA9A"
+                        Click="btnCart_Click" Margin="0,0,10,0"/>
+            </Grid>
         </Border>
 
+        
         <Menu Grid.Row="1" Background="#F0F0F0" Height="30">
             <MenuItem Header="Файл">
                 <MenuItem x:Name="mnuLogout" Header="Выйти" Click="mnuLogout_Click"/>
@@ -26,6 +40,7 @@
             <MenuItem x:Name="mnuOrders" Header="Заказы" Click="mnuOrders_Click"/>
         </Menu>
 
+        
         <Frame x:Name="MainFrame" Grid.Row="2"/>
     </Grid>
 </Window>

@@ -10,11 +10,16 @@ namespace ShoeStore.Views
     public partial class ProductCatalog : Page
     {
         private DatabaseContext _context;
+        private AuthService _authService;
+        private CartService _cartService;
+        private List<Product> _products;
 
-        public ProductCatalog(AuthService authService)
+        public ProductCatalog(AuthService authService, CartService cartService)
         {
             InitializeComponent();
             _context = new DatabaseContext();
+            _authService = authService;
+            _cartService = cartService;
             LoadProducts();
         }
 
@@ -22,7 +27,7 @@ namespace ShoeStore.Views
         {
             try
             {
-                var products = new List<Product>();
+                _products = new List<Product>();
 
                 using (var conn = _context.GetConnection())
                 {
@@ -40,7 +45,7 @@ namespace ShoeStore.Views
                     {
                         while (reader.Read())
                         {
-                            var product = new Product
+                            _products.Add(new Product
                             {
                                 Id = reader.GetInt32(0),
                                 Article = reader.GetString(1),
@@ -54,19 +59,46 @@ namespace ShoeStore.Views
                                 Quantity = reader.GetInt32(9),
                                 Description = reader.IsDBNull(10) ? "" : reader.GetString(10),
                                 ImageUrl = reader.IsDBNull(11) ? "" : reader.GetString(11)
-                            };
-
-                            products.Add(product);
+                            });
                         }
                     }
                 }
 
-                
-                itemsControl.ItemsSource = products;
+                itemsControl.ItemsSource = _products;
             }
             catch (System.Exception ex)
             {
                 MessageBox.Show($"Ошибка загрузки товаров: {ex.Message}");
+            }
+        }
+
+        private void AddToCart_Click(object sender, RoutedEventArgs e)
+        {
+            if (_authService.CurrentUser == null)
+            {
+                MessageBox.Show("Для добавления товаров в корзину необходимо авторизоваться",
+                              "Требуется авторизация",
+                              MessageBoxButton.OK, MessageBoxImage.Warning);
+                return;
+            }
+
+            var button = sender as Button;
+            int productId = (int)button.Tag;
+
+            var product = _products.Find(p => p.Id == productId);
+
+            if (product != null)
+            {
+                if (product.Quantity <= 0)
+                {
+                    MessageBox.Show("Товара нет в наличии", "Ошибка",
+                                  MessageBoxButton.OK, MessageBoxImage.Warning);
+                    return;
+                }
+
+                _cartService.AddToCart(product);
+                MessageBox.Show($"Товар \"{product.Name}\" добавлен в корзину",
+                              "Добавлено", MessageBoxButton.OK, MessageBoxImage.Information);
             }
         }
     }

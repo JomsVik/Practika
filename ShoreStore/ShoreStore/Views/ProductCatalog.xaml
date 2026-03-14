@@ -27,50 +27,36 @@
                                 CornerRadius="5" Padding="10" Margin="5"
                                 Width="220">
                             <StackPanel>
-                                <!-- ИЗОБРАЖЕНИЕ - используем Image, а не TextBlock -->
                                 <Border Background="#F0F0F0" Height="120" Margin="0,0,0,5">
                                     <Image Source="{Binding ImagePath}" 
-                                           Stretch="Uniform" 
-                                           MaxHeight="110"
-                                           VerticalAlignment="Center"/>
+                                           Stretch="Uniform" MaxHeight="110"/>
                                 </Border>
 
-                                <!-- Артикул -->
-                                <TextBlock Text="{Binding Article}" 
-                                           FontSize="10" Foreground="Gray"/>
+                                <TextBlock Text="{Binding Article}" FontSize="10" Foreground="Gray"/>
+                                <TextBlock Text="{Binding Name}" FontWeight="Bold" FontSize="14" TextWrapping="Wrap"/>
+                                <TextBlock Text="{Binding Category}" FontSize="11" Margin="0,2"/>
 
-                                <!-- Название -->
-                                <TextBlock Text="{Binding Name}" 
-                                           FontWeight="Bold" FontSize="14"
-                                           TextWrapping="Wrap"/>
-
-                                <!-- Категория -->
-                                <TextBlock Text="{Binding Category}" 
-                                           FontSize="11" Margin="0,2"/>
-
-                                <!-- Цена -->
                                 <TextBlock>
                                     <Run Text="Цена:" FontWeight="Bold"/>
                                     <Run Text="{Binding Price, StringFormat={}{0:N0} ₽}"/>
                                 </TextBlock>
 
-                                <!-- Скидка -->
-                                <TextBlock>
-                                    <Run Text="Скидка:" FontWeight="Bold"/>
-                                    <Run Text="{Binding Discount}"/>
-                                    <Run Text="%"/>
-                                </TextBlock>
+                                <StackPanel Orientation="Horizontal" Margin="0,2">
+                                    <TextBlock Text="Скидка: " FontWeight="Bold"/>
+                                    <TextBlock Text="{Binding Discount}" Foreground="Red"/>
+                                    <TextBlock Text="%"/>
+                                </StackPanel>
 
-                                <!-- Наличие -->
                                 <TextBlock Margin="0,5">
                                     <Run Text="В наличии:" FontWeight="Bold"/>
                                     <Run Text="{Binding Quantity}"/>
                                     <Run Text="шт."/>
                                 </TextBlock>
 
-                                <!-- Производитель -->
-                                <TextBlock Text="{Binding Manufacturer}" 
-                                           FontSize="11" Foreground="Gray"/>
+                                <!-- Кнопка добавления в корзину -->
+                                <Button Content="В корзину" Background="#00FA9A" 
+                                        Height="30" Margin="0,5" Click="AddToCart_Click"
+                                        Tag="{Binding Id}"/>
                             </StackPanel>
                         </Border>
                     </DataTemplate>
